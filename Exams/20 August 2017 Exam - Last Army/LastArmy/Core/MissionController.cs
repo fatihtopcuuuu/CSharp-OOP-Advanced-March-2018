@@ -7,7 +7,7 @@ public class MissionController : IMissionController
     private readonly Queue<IMission> missionQueue;
     private readonly IArmy army;
     private readonly IWareHouse wareHouse;
-
+    
     public MissionController(IArmy army, IWareHouse wareHouse)
     {
         this.army = army;

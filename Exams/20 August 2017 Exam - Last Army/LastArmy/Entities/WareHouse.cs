@@ -5,7 +5,10 @@ public class WareHouse : IWareHouse
 {
     private readonly IAmmunitionFactory ammunitionFactory;
 
-    public WareHouse(IAmmunitionFactory ammunitionFactory)
+    public WareHouse()
+    { }
+
+    public WareHouse(IAmmunitionFactory ammunitionFactory) : this()
     {
         this.ammunitionFactory = ammunitionFactory;
         this.Amunitions = new List<IAmmunition>();
