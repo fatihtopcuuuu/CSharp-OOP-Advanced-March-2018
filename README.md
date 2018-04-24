@@ -19,4 +19,4 @@ In the Object Oriented Programming course we will learn about the principles and
 7. <a href=""> Exam Preparation </a>
 9. <a href=""> Exam Preparation </a>
 10. <a href=""> Exam Preparation </a>
-11. <a href=""> Practical Exam </a>
+11. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/22%20April%202018%20-%20Festival%20Exam"> Practical Exam </a>
