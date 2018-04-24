@@ -16,7 +16,7 @@ In the Object Oriented Programming course we will learn about the principles and
 4. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced/tree/master/Reflection%20-%20Exercises"> Exercise: Reflection and Attributes  </a>
 5. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced/tree/master/Unit%20Testing%20-%20Exercises"> Exercise: Unit Testing </a>
 6. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced/tree/master/Object%20Communication%20and%20Events%20-%20Exercise"> Exercise: Object Communication and Events </a>
-7. <a href=""> Exam Preparation </a>
-9. <a href=""> Exam Preparation </a>
-10. <a href=""> Exam Preparation </a>
-11. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/22%20April%202018%20-%20Festival%20Exam"> Practical Exam </a>
+7. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/20%20August%202017%20Exam%20-%20Last%20Army"> Exam Preparation </a>
+8. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/20%20August%202017%20Exam%20-%20Last%20Army"> Exam Preparation </a>
+9. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/20%20August%202017%20Exam%20-%20Last%20Army"> Exam Preparation </a>
+10. <a href="https://github.com/melikpehlivanov/CSharp-OOP-Advanced-March-2018/tree/master/Exams/22%20April%202018%20-%20Festival%20Exam"> Practical Exam </a>
